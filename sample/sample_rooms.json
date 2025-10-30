@@ -1,0 +1,11 @@
+[
+  {
+    "web_rid": "12345",
+    "AnchorName": "示例主播",
+    "Tag": "测试",
+    "room_title": "示例直播间",
+    "roomStatus": "在线",
+    "enabled": true,
+    "taskPriority": 1
+  }
+]
